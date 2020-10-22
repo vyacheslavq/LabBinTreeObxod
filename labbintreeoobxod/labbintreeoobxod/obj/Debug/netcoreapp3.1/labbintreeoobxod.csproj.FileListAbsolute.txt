@@ -1,0 +1,11 @@
+D:\Projects\labbintreeoobxod\labbintreeoobxod\bin\Debug\netcoreapp3.1\labbintreeoobxod.exe
+D:\Projects\labbintreeoobxod\labbintreeoobxod\bin\Debug\netcoreapp3.1\labbintreeoobxod.deps.json
+D:\Projects\labbintreeoobxod\labbintreeoobxod\bin\Debug\netcoreapp3.1\labbintreeoobxod.runtimeconfig.json
+D:\Projects\labbintreeoobxod\labbintreeoobxod\bin\Debug\netcoreapp3.1\labbintreeoobxod.runtimeconfig.dev.json
+D:\Projects\labbintreeoobxod\labbintreeoobxod\bin\Debug\netcoreapp3.1\labbintreeoobxod.dll
+D:\Projects\labbintreeoobxod\labbintreeoobxod\bin\Debug\netcoreapp3.1\labbintreeoobxod.pdb
+D:\Projects\labbintreeoobxod\labbintreeoobxod\obj\Debug\netcoreapp3.1\labbintreeoobxod.csprojAssemblyReference.cache
+D:\Projects\labbintreeoobxod\labbintreeoobxod\obj\Debug\netcoreapp3.1\labbintreeoobxod.AssemblyInfoInputs.cache
+D:\Projects\labbintreeoobxod\labbintreeoobxod\obj\Debug\netcoreapp3.1\labbintreeoobxod.AssemblyInfo.cs
+D:\Projects\labbintreeoobxod\labbintreeoobxod\obj\Debug\netcoreapp3.1\labbintreeoobxod.dll
+D:\Projects\labbintreeoobxod\labbintreeoobxod\obj\Debug\netcoreapp3.1\labbintreeoobxod.pdb
